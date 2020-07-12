@@ -5,6 +5,4 @@ metadata:
   labels:
     environment: dmz
 spec:
-  finalizers:
-  - kubernetes
 

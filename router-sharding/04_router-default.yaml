@@ -7,9 +7,9 @@ metadata:
   namespace: openshift-ingress-operator
 spec:
   replicas: 2
-  routeSelector:
-    matchLabels:
-      type: public
-  namespaceSelector:
-    matchLabels:
-      environment: dmz
+#  routeSelector:
+#    matchLabels:
+#      type: public
+#  namespaceSelector:
+#    matchLabels:
+#      environment: dmz

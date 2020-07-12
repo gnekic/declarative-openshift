@@ -8,7 +8,7 @@ metadata:
   name: django-psql-example
   namespace: test-sharding
 spec:
-  host: django-psql-example-test-sharding.internalapps.top.sandbox37.opentlc.com
+  host:
   subdomain: ""
   to:
     kind: Service
